@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HantsonAlec
 - 👀 I’m interested in everything tech
-- 🌱 I’m currently studying AI
 - 📫 How to reach me linkedin.com/in/alec-hantson-0a45411a7
 
 <!---
